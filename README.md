@@ -1,28 +1,129 @@
-# About Me:
-As a web developer and a software engineering student at CUST, I have extensive experience with Django and React. My passion lies in building dynamic and responsive web applications that offer seamless user experiences. I have a strong command of various programming languages, including JavaScript, HTML, and CSS. Additionally, I am proficient in utilizing various frameworks, such as React and Node.js, to develop scalable applications. My commitment to staying up-to-date with emerging technologies helps me continuously enhance my skills and create innovative solutions. In my free time, I enjoy attending hackathons, contributing to open-source projects, and working on personal coding projects to challenge myself.
-<img align="right" alt="Coding"  width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+# <p align="left" style="justify-content: center;"> <img src="https://img.icons8.com/color/48/000000/code.png"/> Muqeeti's Profile</p>
 
-## Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/taahahussainkhan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/taahahussainkhan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/taahahussainkhan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@taahahussainkhan) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/taahahussainkhan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/taahahussainkhan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/taahahussainkha) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=taahahussainkhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=taahahussainkhan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=taahahussainkhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## Trophies
-![](https://github-profile-trophy.vercel.app/?username=taahahussainkhan&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-### Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div style="display: flex; justify-content: center; align-items: center;">
+  <div style="flex: 1;">
+    <h2>Hey there, It's Me Taaha! 👋</h2>
+    <p>As a web developer and a software engineering student at CUST, I have extensive experience with Django and React. My passion lies in building dynamic and responsive web applications that offer seamless user experiences. I have a strong command of various programming languages, including JavaScript, HTML, and CSS. Additionally, I am proficient in utilizing various frameworks, such as React and Node.js, to develop scalable applications. My commitment to staying up-to-date with emerging technologies helps me continuously enhance my skills and create innovative solutions. In my free time, I enjoy attending hackathons, contributing to open-source projects, and working on personal coding projects to challenge myself.</p>
+    
+  </div>
+  <div style="flex: 1;">
+    <img alt="Professional developer GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" data-target="animated-image.originalImage">
+  </div>
+</div>
 
 
-### Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+## 💻 Technologies & Tools Used By Muqeeti
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3"/> 
+  <img src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript"/> 
+  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react"/> 
+  <img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=Node.js"/> 
+  <img src="https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb"/> 
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/-pgAdmin-336791?style=for-the-badge&logo=pgAdmin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-phpMyAdmin-4479A1?style=for-the-badge&logo=php&logoColor=white"/
+  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code"/> 
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap"/>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=taahahussainkhan&icon=5&color=6)](https://visitcount.itsvg.in)
+## 💻 Taaha's Projects
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I have worked on a number of projects both individually and as part of a team. Some of my notable projects include:
+- 📝 To-do-list in Node.js
+- 📱 Facebook clone in React
+- 📅 Meetup-planner-app in Django
+- 🤖 Cat-bot in Node.js using OpenAI APIs
+- 📊 Employee Management App with CRUD operations using Django
+
+And many more small projects. I am always looking for new opportunities to work on interesting projects and challenge myself.
+
+
+## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f308.png" width="30"> GitHub Project Cards
+
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=muqeetiqbal2&repo=meetup-planner-using-django&theme=radical)]([https://github.com/muqeetiqbal2/meetup-planner-using-django])
+
+This is a web application that enables users to organize and participate in meetups in specific locations. With Meetup-Planner-Using-Django, you can easily create meetups, set the location, and allow participants to register via email.
+
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=muqeetiqbal2&repo=Chatbot-with-Node.js-and-OpenAI-APIs&theme=radical)]([https://github.com/muqeetiqbal2/Chatbot-with-Node.js-and-OpenAI-APIs])
+
+This is a chatbot project built with Node.js and integrated with OpenAI APIs. The chatbot is designed to provide conversational assistance to users on a variety of topics.
+
+[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=muqeetiqbal2&repo=employee_project&theme=radical)]([https://github.com/muqeetiqbal2/employee_project])
+
+This is a web application built using Django that allows users to perform CRUD operations on employee records. Users can easily create, read, update, and delete employee records with this application.
+
+## 💼 Muqeeti's Work Experience
+
+I am a seasoned Web Developer with 3 years of experience in the field. Throughout my career, I have worked on a diverse range of projects that have allowed me to gain hands-on experience in web development and software engineering.
+
+My primary focus is on delivering high-quality software that not only meets but exceeds my clients' expectations. I am driven by a passion for crafting visually stunning and user-friendly websites and applications that are optimized for various devices. 💻
+
+## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png" width="30"> Top Languages
+
+[![Your Name's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taahahussainkhan&layout=compact&theme=radical)](https://github.com/taahahussainkhan)
+
+This chart shows the top programming languages I've used on GitHub, based on the number of lines of code. Click on the chart to see more details.
+
+## 💼 Work With Muqeeti
+
+I offer web development services that cater to your specific business needs. As a self-taught web developer, I specialize in creating visually stunning and responsive websites and web applications that provide an exceptional user experience. My expertise in various technologies and tools ensure that your project is executed efficiently and effectively.
+
+If you're interested in working with me, please don't hesitate to contact me via email at muqeetiqbal01@gmail.com or connect with me on LinkedIn (https://www.linkedin.com/in/taahahussainkhan). I look forward to hearing from you and discussing how I can assist you in achieving your web development goals.
+
+
+## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e2.png" width="30"> GitHub Contributions
+![Your Name's GitHub Contributions](https://github-contribution-stats.vercel.app/api/?username=muqeetiqbal2&theme=dracula)
+
+This is a visual representation of my GitHub contributions over the past year, showing the number of commits, pull requests, issues, and more.
+
+
+## 📈 Taaha's GitHub Stats
+
+[![Muqeeti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=taahahussainkhan&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)](https://github.com/taahahussainkhan)
+
+## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png" width="30"> GitHub Trophies
+
+[![Your Name's Trophies](https://github-profile-trophy.vercel.app/?username=taahahussainkhan&theme=radical)](https://github.com/taahahussainkhan)
+
+These are the trophies I've earned on GitHub so far. They are awarded for various achievements such as contributing to open source projects or creating your own repositories. Click on the trophies to see more details.
+
+## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f441.png" width="30"> Profile Views
+
+![](https://komarev.com/ghpvc/?username=taahahussainkhan&color=green)
+
+This is the number of visitors to my profile README.md file.
+
+
+## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f426.png" width="30"> GitHub Streak
+![Your Name's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=taahahussainkhan&theme=radical)
+
+This is my GitHub contribution streak, showing the number of consecutive days I've made at least one commit.
+
+
+
+## 🙏 Acknowledgements
+
+I would like to extend my gratitude to Saqib Iqbal and Numan Javed. Their guidance and support have been invaluable in helping me to achieve my goals.
+
+
+## 📫 Get In Touch With Muqeeti
+
+<div style="display: flex; justify-content: center;">
+  <a href="https://www.linkedin.com/in/taahahussainkhan/" style="margin: 10px;">
+    <img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" alt="LinkedIn icon">
+  </a>
+  <a href="mailto:muqeetiqbal01@gmail.com" style="margin: 10px;">
+    <img src="https://img.icons8.com/ios-filled/50/0077b5/email.png" alt="Email icon">
+  </a>
+  <a href="https://github.com/muqeetiqbal2" style="margin: 10px;">
+    <img src="https://img.icons8.com/ios-filled/50/0077b5/github.png" alt="GitHub icon">
+  </a>
+</div>
