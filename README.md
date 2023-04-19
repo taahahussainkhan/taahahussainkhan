@@ -1,6 +1,7 @@
 # <p align="left" style="justify-content: center;"> <img src="https://img.icons8.com/color/48/000000/code.png"/> Taaha's Profile</p>
 
 <div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github.com/taahahussainkhan/taahahussainkhan/blob/main/Taaha%20Hussain%20Khan%20(2).png"/>
   <div style="flex: 1;">
     <h2>Hey there, It's Me Taaha! 👋</h2>
     <p>As a web developer and a software engineering student at CUST, I have extensive experience with Django and React. My passion lies in building dynamic and responsive web applications that offer seamless user experiences. I have a strong command of various programming languages, including JavaScript, HTML, and CSS. Additionally, I am proficient in utilizing various frameworks, such as React and Node.js, to develop scalable applications. My commitment to staying up-to-date with emerging technologies helps me continuously enhance my skills and create innovative solutions. In my free time, I enjoy attending hackathons, contributing to open-source projects, and working on personal coding projects to challenge myself.</p>
@@ -17,20 +18,14 @@
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3"/> 
   <img src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript"/> 
-  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript"/>
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white"/> 
   <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react"/> 
   <img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=Node.js"/> 
-  <img src="https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb"/> 
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> 
   <img src="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> 
   <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/-pgAdmin-336791?style=for-the-badge&logo=pgAdmin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-phpMyAdmin-4479A1?style=for-the-badge&logo=php&logoColor=white"/
-  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code"/> 
+  <img src="https://img.shields.io/badge/-phpMyAdmin-4479A1?style=for-the-badge&logo=php&logoColor=white"/ >
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap"/>
 </p>
 
@@ -50,19 +45,8 @@ And many more small projects. I am always looking for new opportunities to work 
 
 [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=taahahussainkhan&repo=Expense-Tracker&theme=radical)]([https://github.com/taahahussainkhan/Expense-Tracker])
 
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=muqeetiqbal2&repo=Chatbot-with-Node.js-and-OpenAI-APIs&theme=radical)]([https://github.com/muqeetiqbal2/Chatbot-with-Node.js-and-OpenAI-APIs])
-
-This is a chatbot project built with Node.js and integrated with OpenAI APIs. The chatbot is designed to provide conversational assistance to users on a variety of topics.
-
-[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=muqeetiqbal2&repo=employee_project&theme=radical)]([https://github.com/muqeetiqbal2/employee_project])
-
-This is a web application built using Django that allows users to perform CRUD operations on employee records. Users can easily create, read, update, and delete employee records with this application.
 
 ## 💼 Taaha's Work Experience
-
-I am a seasoned Web Developer with 3 years of experience in the field. Throughout my career, I have worked on a diverse range of projects that have allowed me to gain hands-on experience in web development and software engineering.
-
-My primary focus is on delivering high-quality software that not only meets but exceeds my clients' expectations. I am driven by a passion for crafting visually stunning and user-friendly websites and applications that are optimized for various devices. 💻
 
 ## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png" width="30"> Top Languages
 
@@ -72,7 +56,7 @@ This chart shows the top programming languages I've used on GitHub, based on the
 
 ## 💼 Work With Taaha
 
-I offer web development services that cater to your specific business needs. As a self-taught web developer, I specialize in creating visually stunning and responsive websites and web applications that provide an exceptional user experience. My expertise in various technologies and tools ensure that your project is executed efficiently and effectively.
+I offer Frontend development services that cater to your specific business needs. As a self-taught web developer, I specialize in creating visually stunning and responsive websites and web applications that provide an exceptional user experience. My expertise in various technologies and tools ensure that your project is executed efficiently and effectively.
 
 If you're interested in working with me, please don't hesitate to contact me via email at taaha128@gmail.com or connect with me on LinkedIn (https://www.linkedin.com/in/taahahussainkhan). I look forward to hearing from you and discussing how I can assist you in achieving your web development goals.
 
