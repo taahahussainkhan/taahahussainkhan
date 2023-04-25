@@ -55,11 +55,13 @@
 
 ## 📈 Taaha's GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taahahussainkhan&show_icons=true&locale=en&layout=compact" alt="taahahussainkhan" /></p>
+<div class="stats" align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taahahussainkhan&show_icons=true&locale=en" alt="taahahussainkhan" /></p>
+![Taaha's GitHub stats](https://github-readme-stats.vercel.app/api?username=taahahussainkhan&theme=algolia&border_radius=20)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taahahussainkhan&" alt="taahahussainkhan" /></p> 
+![GitHub Streak](https://streak-stats.demolab.com?user=taahahussainkhan&count_private=true&theme=algolia&border_radius=20)
+
+<!--  End Stats Cards --> 
 
 ## 💼 Work With Taaha
 
