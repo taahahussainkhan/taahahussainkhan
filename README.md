@@ -17,7 +17,10 @@
 
 
 ## 💻 Technologies & Tools Used By Taaha
-
+<div align="center" style="display:block;">
+    <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
+</div>
+<br> 
  
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" width="50" alt="javascript logo"  />
@@ -60,7 +63,10 @@
 ![Taaha's GitHub stats](https://github-readme-stats.vercel.app/api?username=taahahussainkhan&theme=algolia&border_radius=20)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=taahahussainkhan&count_private=true&theme=algolia&border_radius=20)
-
+ <br>
+ <br>
+ 
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taahahussainkhan&size_weight=0.5&count_weight=0.5&theme=algolia&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)        
 <!--  End Stats Cards --> 
 
 ## 💼 Work With Taaha
