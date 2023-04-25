@@ -1,7 +1,7 @@
 # <p align="center" style="justify-content: center;"> <img src="https://img.icons8.com/color/48/000000/code.png"/> Taaha's Profile</p>
 
 <div style="display: flex; justify-content: center; align-items: center;">
- <img src="https://github.com/taahahussainkhan/taahahussainkhan/blob/main/banner.png"/>
+ <img src="https://github.com/taahahussainkhan/taahahussainkhan/blob/main/Banner.gif"/>
   <div style="flex: 1;">
     <h2>Hey there, It's Me Taaha! 👋</h2>
     <div style="flex: 1;">
