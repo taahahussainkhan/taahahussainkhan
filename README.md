@@ -60,13 +60,16 @@
 
 <div class="stats" align="center">
 
-![Taaha Hussain Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=taahahussainkhan&count_private=true&theme=algolia&border_radius=20)
-
+<!--![Taaha Hussain Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=taahahussainkhan&count_private=true&theme=algolia&border_radius=20)-->
+ 
+![Taaha Hussain Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=taahahussainkhan&theme=algolia&border_radius=20)
 ![GitHub Streak](https://streak-stats.demolab.com?user=taahahussainkhan&count_private=true&theme=algolia&border_radius=20)
  <br>
  <br>
  
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taahahussainkhan&count_private=true&size_weight=0.5&count_weight=0.5&theme=algolia&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)        
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taahahussainkhan&size_weight=0.5&count_weight=0.5&theme=algolia&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)        
+ 
+ <!--[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taahahussainkhan&count_private=true&size_weight=0.5&count_weight=0.5&theme=algolia&border_radius=20)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--  End Stats Cards --> 
 
 ## 💼 Work With Taaha
