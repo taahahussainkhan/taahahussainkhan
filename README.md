@@ -71,16 +71,6 @@ I offer front-end development services that cater to your specific business need
 If you're interested in working with me, please don't hesitate to contact me via email at taaha128@gmail.com or connect with me on LinkedIn (https://www.linkedin.com/in/taahahussainkhan). I look forward to hearing from you and discussing how I can assist you in achieving your web development goals.
 
 
-
-
-
-## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f441.png" width="30"> Profile Views
-
-![](https://komarev.com/ghpvc/?username=taahahussainkhan&color=green)
-
-
-
-
 ## 📫 Get In Touch With Taaha
 
 <div style="display: flex; justify-content: center;">
@@ -94,3 +84,7 @@ If you're interested in working with me, please don't hesitate to contact me via
     <img src="https://img.icons8.com/ios-filled/50/0077b5/github.png" alt="GitHub icon">
   </a>
 </div>
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=taahahussainkhan&color=green)
