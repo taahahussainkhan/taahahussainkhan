@@ -5,9 +5,9 @@
   <div style="flex: 1;">
     <h2>Hey there, It's Me Taaha! 👋</h2>
     <div style="flex: 1;">
-<div align="center">
+<!-- <div align="center">
   <img height="350" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
+</div> -->
   </div>
     <p>As a Front-End Developer with skills in HTML, CSS, JavaScript, React, C, C++, and Python, I am eager to launch my career in web development. I am passionate about creating engaging user experiences and am committed to developing my skills in the field of front-end development.</p>
     
@@ -65,7 +65,7 @@
 
 ## 💼 Work With Taaha
 
-I offer Frontend development services that cater to your specific business needs. As a self-taught web developer, I specialize in creating visually stunning and responsive websites and web applications that provide an exceptional user experience. My expertise in various technologies and tools ensure that your project is executed efficiently and effectively.
+I offer front-end development services that cater to your specific business needs. As a self-taught web developer, I specialize in creating visually stunning and responsive websites and web applications that provide an exceptional user experience. My expertise in various technologies and tools ensures that your project is executed efficiently and effectively.
 
 If you're interested in working with me, please don't hesitate to contact me via email at taaha128@gmail.com or connect with me on LinkedIn (https://www.linkedin.com/in/taahahussainkhan). I look forward to hearing from you and discussing how I can assist you in achieving your web development goals.
 
