@@ -25,8 +25,9 @@
  
 <div align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" alt="python logo"  />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/django-original.svg" height="50" width="50" alt="python logo"  />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/flask-original.svg" height="50" width="50" alt="python logo"  />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain.svg" height="50" width="50" alt="django logo"  />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flask/flask-original-wordmark.svg" height="50" width="50" alt="python logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/fastapi/fastapi-original.svg" height="50" width="50" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" width="50" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="50" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="50" width="50" alt="materialui logo"  />
