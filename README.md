@@ -12,7 +12,7 @@
 </div> -->
   </div>
   <br><br>
-    <p>As a Front-End Developer with skills in HTML, CSS, JavaScript, React, C, C++, and Python, I am eager to launch my career in web development. I am passionate about creating engaging user experiences and am committed to developing my skills in the field of front-end development.</p>
+    <p>As a Full Stack Web developer with skills in  React, Django Flask, MySQL and Python, I am eager to launch my career in web development. I am passionate about creating engaging user experiences and am committed to developing my skills in the field of front-end development.</p>
     
   </div>
   
@@ -63,7 +63,7 @@
 
 ## 💼 Work With Taaha
 
-I offer front-end development services that cater to your specific business needs. As a self-taught web developer, I specialize in creating visually stunning and responsive websites and web applications that provide an exceptional user experience. My expertise in various technologies and tools ensures that your project is executed efficiently and effectively.
+I offer FULL STACK development services that cater to your specific business needs. As a self-taught web developer, I specialize in creating visually stunning and responsive websites and web applications that provide an exceptional user experience. My expertise in various technologies and tools ensures that your project is executed efficiently and effectively.
 
 If you're interested in working with me, please don't hesitate to contact me via email at taaha128@gmail.com or connect with me on LinkedIn (https://www.linkedin.com/in/taahahussainkhan). I look forward to hearing from you and discussing how I can assist you in achieving your web development goals.
 
