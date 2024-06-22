@@ -52,7 +52,7 @@
 <!--![Taaha Hussain Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=taahahussainkhan&count_private=true&theme=algolia&border_radius=20)-->
  
 ![Taaha Hussain Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=taahahussainkhan&theme=algolia&border_radius=20)
-![GitHub Streak](https://streak-stats.demolab.com?user=taahahussainkhan&count_private=true&theme=algolia&border_radius=20)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=taahahussainkhan&count_private=true&theme=algolia&border_radius=20) -->
  <br>
  <br>
  
