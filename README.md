@@ -12,7 +12,7 @@
 </div> -->
   </div>
   <br><br>
-    <p>As a Full Stack Web developer with skills in  React, Django Flask, MySQL and Python, I am eager to launch my career in web development. I am passionate about creating engaging user experiences and am committed to developing my skills in the field of front-end development.</p>
+    <p>As a Full Stack Web developer with skills in  React/NextJS, I am eager to launch my career in web development. I am passionate about creating engaging user experiences and am committed to developing my skills in the field of front-end development.</p>
     
   </div>
   
@@ -25,7 +25,6 @@
  
 <div align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" alt="python logo"  />
- <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain.svg" height="50" width="50" alt="django logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" width="50" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="50" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" width="50" alt="nextjs logo"  />
@@ -51,7 +50,7 @@
 
 ## 💼 Work With Taaha
 
-I offer FULL STACK development services that cater to your specific business needs. As a self-taught web developer, I specialize in creating visually stunning and responsive websites and web applications that provide an exceptional user experience. My expertise in various technologies and tools ensures that your project is executed efficiently and effectively.
+I offer FULL STACK development services that cater to your specific business needs. As a web developer, I specialize in creating visually stunning and responsive websites and web applications that provide an exceptional user experience. My expertise in various technologies and tools ensures that your project is executed efficiently and effectively.
 
 If you're interested in working with me, please don't hesitate to contact me via email at taaha128@gmail.com or connect with me on LinkedIn (https://www.linkedin.com/in/taahahussainkhan). I look forward to hearing from you and discussing how I can assist you in achieving your web development goals.
 
